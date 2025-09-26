@@ -80,4 +80,10 @@ It integrates the **OpenLibrary API** to fetch book data dynamically and provide
 
 
 ---
+## sandbox link
+https://codesandbox.io/p/github/sameerkharad/Book-finder/main?file=%2F.codesandbox%2Ftasks.json%3A13%2C21&workspaceId=ws_3JPBzX9eL2udYVNw8pKNBv
 
+---
+
+## Netlify link
+https://book-finderforlearners.netlify.app/favorites
